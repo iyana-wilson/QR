@@ -1,0 +1,28 @@
+body {
+    font-family: "Outfit", sans-serif;
+}
+
+
+.qr-code {
+    width: 1440px;
+    text-align: center;
+    padding-top: 150px;
+    border-radius: 50%;
+}
+
+.qr-code h1 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.qr-code img {
+    display: block;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.qr-code p {
+    font-size: 15px;
+}
